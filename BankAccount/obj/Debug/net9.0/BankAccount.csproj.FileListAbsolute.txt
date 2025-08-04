@@ -1,0 +1,15 @@
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/bin/Debug/net9.0/BankAccount
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/bin/Debug/net9.0/BankAccount.deps.json
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/bin/Debug/net9.0/BankAccount.runtimeconfig.json
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/bin/Debug/net9.0/BankAccount.dll
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/bin/Debug/net9.0/BankAccount.pdb
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.AssemblyInfoInputs.cache
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.AssemblyInfo.cs
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.sourcelink.json
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.dll
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/refint/BankAccount.dll
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.pdb
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/BankAccount.genruntimeconfig.cache
+/Users/joramhoward/Desktop/cityu/CS132/Module04/cs132-hos04-summer-2025-joramho/BankAccount/obj/Debug/net9.0/ref/BankAccount.dll
